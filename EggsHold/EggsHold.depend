@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1525351167 source:d:\file bai tap\baitap.c\codeblock\eggshold\main.cpp
+	<SDL.h>
+	<iostream>
+	"core.h"
+	"broad.h"
+
+1525350839 d:\file bai tap\baitap.c\codeblock\eggshold\core.h
+	<SDL.h>
+
+1525350158 source:d:\file bai tap\baitap.c\codeblock\eggshold\holder.cpp
+	<SDL.h>
+	"holder.h"
+
+1525350085 d:\file bai tap\baitap.c\codeblock\eggshold\holder.h
+	<SDL.h>
+	"core.h"
+
+1525350264 source:d:\file bai tap\baitap.c\codeblock\eggshold\core.cpp
+	<SDL.h>
+	"core.h"
+
+1525545988 d:\file bai tap\baitap.c\codeblock\eggshold\broad.h
+	<SDL.h>
+	"core.h"
+
+1526193666 source:c:\users\nghun\downloads\compressed\eggshold\main.cpp
+	<SDL.h>
+	<iostream>
+	"core.h"
+	"broad.h"
+	<time.h>
+	<SDL_mixer.h>
+	"Dropobj.h"
+
+1526228046 c:\users\nghun\downloads\compressed\eggshold\core.h
+	<SDL.h>
+
+1526229847 c:\users\nghun\downloads\compressed\eggshold\broad.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"Dropobj.h"
+
+1526193722 c:\users\nghun\downloads\compressed\eggshold\dropobj.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"broad.h"
+
+1526314986 source:d:\downloads\eggshold\main.cpp
+	<SDL.h>
+	<iostream>
+	"core.h"
+	"broad.h"
+	<time.h>
+
+1526311967 d:\downloads\eggshold\core.h
+	<SDL.h>
+
+1526314963 d:\downloads\eggshold\broad.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"Dropobj.h"
+	"math.h"
+
+1526316002 d:\downloads\eggshold\dropobj.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"broad.h"
+	<stdlib.h>
+
+1526314986 source:e:\eggshold\main.cpp
+	<SDL.h>
+	<iostream>
+	"core.h"
+	"broad.h"
+	<time.h>
+
+1526311967 e:\eggshold\core.h
+	<SDL.h>
+
+1526321241 e:\eggshold\broad.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"Dropobj.h"
+	"math.h"
+
+1526316002 e:\eggshold\dropobj.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"broad.h"
+	<stdlib.h>
+
+1526271250 source:c:\users\dat\desktop\eggshold-20200514t020908z-001\eggshold\main.cpp
+	<SDL.h>
+	<iostream>
+	"core.h"
+	"broad.h"
+	<time.h>
+
+1526271246 c:\users\dat\desktop\eggshold-20200514t020908z-001\eggshold\core.h
+	<SDL.h>
+
+1526271246 c:\users\dat\desktop\eggshold-20200514t020908z-001\eggshold\broad.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"Dropobj.h"
+	"math.h"
+
+1526271246 c:\users\dat\desktop\eggshold-20200514t020908z-001\eggshold\dropobj.h
+	<SDL.h>
+	"core.h"
+	<vector>
+	"broad.h"
+	<stdlib.h>
+
